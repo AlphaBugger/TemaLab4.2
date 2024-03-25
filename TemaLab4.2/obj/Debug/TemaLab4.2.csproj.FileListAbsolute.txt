@@ -1,0 +1,7 @@
+C:\Users\x\source\repos\TemaLab4.2\bin\Debug\TemaLab4.2.exe.config
+C:\Users\x\source\repos\TemaLab4.2\bin\Debug\TemaLab4.2.exe
+C:\Users\x\source\repos\TemaLab4.2\bin\Debug\TemaLab4.2.pdb
+C:\Users\x\source\repos\TemaLab4.2\obj\Debug\TemaLab4.2.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\TemaLab4.2\obj\Debug\TemaLab4.2.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\TemaLab4.2\obj\Debug\TemaLab4.2.exe
+C:\Users\x\source\repos\TemaLab4.2\obj\Debug\TemaLab4.2.pdb
